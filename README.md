@@ -8,85 +8,85 @@ Mercurial source control management commands
 
 
 #add          
-      add the specified files on the next commit
+       add the specified files on the next commit
 #addremove 
-      add all new files, delete all missing files
+       add all new files, delete all missing files
 #annotate  
-      show changeset information by line for each file
+       show changeset information by line for each file
 #archive 
-      create an unversioned archive of a repository revision
+       create an unversioned archive of a repository revision
 #backout 
-      reverse effect of earlier changeset
+       reverse effect of earlier changeset
 #bisect  
        subdivision search of changesets
 #bookmarks  
        create a new bookmark or list existing bookmarks
 #branch  
-      set or show the current branch name
+       set or show the current branch name
 #branches  
-      list repository named branches
+       list repository named branches
 #bundle 
-      create a changegroup file
+       create a changegroup file
 #cat      
-      output the current or given revision of files
+       output the current or given revision of files
 #clone    
-      make a copy of an existing repository
+       make a copy of an existing repository
 #commit    
-      commit the specified files or all outstanding changes
+       commit the specified files or all outstanding changes
 #config   
-      show combined config settings from all hgrc files
+       show combined config settings from all hgrc files
 #copy    
        mark files as copied for the next commit
 #diff     
-      diff repository (or selected files)
+       diff repository (or selected files)
 #export    
-      dump the header and diffs for one or more changesets
+       dump the header and diffs for one or more changesets
 #files     
-      list tracked files
+       list tracked files
 #forget    
-      forget the specified files on the next commit
+       forget the specified files on the next commit
 #graft    
-      copy changes from other branches onto the current branch
+       copy changes from other branches onto the current branch
 #grep    
-      search for a pattern in specified files and revisions
+       search for a pattern in specified files and revisions
 #heads    
-      show branch heads
+       show branch heads
 #help      
-      show help for a given topic or a help overview
+       show help for a given topic or a help overview
 #identify  
-      identify the working directory or specified revision
+       identify the working directory or specified revision
 #import    
-      import an ordered set of patches
+       import an ordered set of patches
 #incoming  
-      show new changesets found in source
+       show new changesets found in source
 #init    
-      create a new repository in the given directory
+       create a new repository in the given directory
 #log     
-      show revision history of entire repository or files
+       show revision history of entire repository or files
 #manifest   
-      output the current or given revision of the project manifest
+       output the current or given revision of the project manifest
 #merge     
-      merge another revision into working directory
+       merge another revision into working directory
 #outgoing  
-      show changesets not found in the destination
+       show changesets not found in the destination
 #paths    
-      show aliases for remote repositories
+       show aliases for remote repositories
 #phase     
-      set or show the current phase name
+       set or show the current phase name
 #pull     
-      pull changes from the specified source
+       pull changes from the specified source
 #push     
-      push changes to the specified destination
+       push changes to the specified destination
 #recover    
-      roll back an interrupted transaction
+       roll back an interrupted transaction
 #remove   
-      remove the specified files on the next commit
+       remove the specified files on the next commit
 #rename   
-      rename files; equivalent of copy + remove
+       rename files; equivalent of copy + remove
 #resolve  
-      redo merges or set/view the merge status of files
+       redo merges or set/view the merge status of files
 #revert   
-      restore files to their checkout state
+       restore files to their checkout state
 #root    
       print the root (top) of the current working directory
 #serve      
