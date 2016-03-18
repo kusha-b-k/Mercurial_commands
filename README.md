@@ -88,25 +88,25 @@ Mercurial source control management commands
 #revert   
        restore files to their checkout state
 #root    
-      print the root (top) of the current working directory
+       print the root (top) of the current working directory
 #serve      
-      start stand-alone webserver
+       start stand-alone webserver
 #status    
-      show changed files in the working directory
+       show changed files in the working directory
 #summary   
-      summarize working directory state
+       summarize working directory state
 #tag    
-      add one or more tags for the current or given revision
+       add one or more tags for the current or given revision
 #tags    
-      list repository tags
+        list repository tags
 #unbundle  
-       apply one or more changegroup files
+        apply one or more changegroup files
 #update    
         update working directory (or switch revisions)
 #verify   
-         verify the integrity of the repository
+        verify the integrity of the repository
 #version   
-          output version and copyright information
+        output version and copyright information
 
 #config     
         Configuration Files
@@ -145,6 +145,6 @@ Mercurial source control management commands
 #subrepos  
         Subrepositories
 #templating  
-       Template Usage
+        Template Usage
 #urls     
         URL Paths
