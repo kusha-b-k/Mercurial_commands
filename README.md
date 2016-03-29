@@ -1,8 +1,7 @@
 # Mercurial_commands
 
-Mercurial source control management commands
-
-
+Mercurial source control management commands.
+Below are the most important commands used in Mercurial
 
 
 
